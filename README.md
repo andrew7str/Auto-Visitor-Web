@@ -1,4 +1,5 @@
-# Auto-Visitor-Web
+# Auto Visitor Web GUI
+Bagi para pengguna website yang traffic nya rendah, ini tools cocok kalilah untuk klen yang gabut gak punya traffic bagus, apa lagi yang tidak masuk daftar pencarian google karna traffic tidak banyak
 
 ## Cara Penggunaan
 * pip install requests
